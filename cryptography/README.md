@@ -20,3 +20,4 @@ This directory contains cryptography challenges and solutions.
 ## Challenges
 
 Challenges will be organized in subdirectories with their write-ups and solutions.
+Format directory name is ``{year}-{event-slug}__{challenge-slug}``
