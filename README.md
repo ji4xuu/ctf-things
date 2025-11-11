@@ -42,6 +42,21 @@ Each category folder contains:
 - Build a comprehensive knowledge base
 - Track my progress throughout my CS degree
 
+## Writeup References 
+
+- [N1CTF 2025](https://github.com/Nu1LCTF/n1ctf-2025/tree/main)
+- [M*CTF 2025](https://gitlab.com/mctf/mctf-2025/school/quals/-/tree/main?ref_type=heads)
+- [Equinor CTF 2025](https://github.com/ept-team/equinor-ctf-2025)
+- [Burkeye CTF 2025](https://github.com/cscosu/buckeyectf-2024-public) Will Updated soon
+- [Infobahn CTF 2025]()
+
+## Chall Reference
+
+- [N1CTF 2025](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/N1CTF/2025)
+- [M*CTF 2025](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/MCTF/2025/Quals)
+- [Equinor CTF 2025](https://github.com/ept-team/equinor-ctf-2025)
+- [Burkeye CTF 2025](https://github.com/cscosu/buckeyectf-2024-public) Will Updated soon
+- [Infobahn CTF 2025](https://github.com/sajjadium/ctf-archives/tree/main/ctfs/Infobahn/2025)
 ## Contributing
 
 This is a personal learning repository, but if you find any errors or have suggestions, feel free to open an issue!
